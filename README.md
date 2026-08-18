@@ -22,7 +22,7 @@
 |:---:|:---:|:---:|:---:|
 | 1 | **2420030133** | **Y. Sai Charan Reddy** | Data Engineering & Pipeline Lead |
 | 2 | **2420030135** | **Bhuvan Surisetti** | Platform Architecture & Analytics Lead |
-| 3 | **2420030644** | **Eshwar .M** | Machine Learning & Dashboard Integration |
+| 3 | **2420030644** | **Eshwar .Miyyapuram** | Machine Learning & Dashboard Integration |
 
 ### Project Supervisor / Guide
 * **Supervisor Name:** Dr.N.Shirisha
